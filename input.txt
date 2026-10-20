@@ -1,0 +1,1 @@
+This   is an example of text where words are separated only by spaces   here are two spaces and here    four   and there are no punctuation marks line breaks or any other separators
